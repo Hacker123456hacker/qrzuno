@@ -1,0 +1,1 @@
+QRZuno is ready for static hosting. Use GitHub Pages or Cloudflare Pages with the repository root as the publish directory.
