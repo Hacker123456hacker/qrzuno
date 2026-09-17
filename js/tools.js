@@ -1,0 +1,1 @@
+window.QRZunoTools={types:['url','text','wifi','whatsapp','email','phone','sms','vcard','location','upi','instagram','facebook','linkedin','youtube','telegram','app','event','social-media','image','audio','video','pdf']};
